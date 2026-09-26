@@ -1,5 +1,5 @@
 export const RESUME_CONFIG = {
-  fileName: "Abhinish_Tiwari_Resume.pdf",
+  fileName: "Abhinish_Tiwari_Software_Engineer.pdf",
   filePath:
-    "https://drive.google.com/file/d/10_FFMGNnw_iz7-x8Z7Qs_5I2ayeFThID/view",
+    "https://drive.google.com/drive/folders/1vLLpPY05sNT_xFwXkC8z6hzWqiAPO2aw",
 };

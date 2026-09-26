@@ -6,7 +6,7 @@ const experiences = {
       title: "Software Engineer",
       subTitle:
         "<a href='https://www.salesmate.io' target='_blank' rel='noopener noreferrer' class='text-indigo-600 dark:text-indigo-400 cursor-pointer hover:underline'>Salesmate</a> <span class='text-gray-400 dark:text-gray-500'> (via <a href='https://www.rapidops.com' target='_blank' rel='noopener noreferrer' class='text-indigo-600 dark:text-indigo-400 cursor-pointer hover:underline'>RapidOps Inc.</a>)</span>",
-      period: "July 2023 - Present",
+      period: "July 2023 - Mar 2026",
       description: [
         "Enhanced core <span class='font-bold'>CRM modules</span> (<span class='font-bold'>Deals</span>, <span class='font-bold'>Contacts</span>, <span class='font-bold'>Companies</span>, <span class='font-bold'>Activities</span>, Custom Modules) by improving functionality, fixing defects, and increasing overall reliability.",
         "Built the <span class='font-bold'>Quotes module</span> with customizable document templates, enabling teams to generate professional, branded proposals seamlessly.",
@@ -65,7 +65,7 @@ const experiences = {
   const stats = [
     {
       id: `stat-1`,
-      value: `2.5+`,
+      value: `3+`,
       label: `Years Experience`,
     },
     {
